@@ -1,0 +1,11 @@
+{
+	"general":
+	{
+		"input_path": "input",
+		"output_path": "output"
+	},
+	"mimicry":
+	{
+		"data_repository_path" : ""
+	}
+}

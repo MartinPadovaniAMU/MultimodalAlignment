@@ -16,7 +16,7 @@ This repository contains inputs, source files and outputs for three levels of mu
 
 ## Speech Rate Alignment
 
-**Input :** conversation files (.csv) and annotations of the different game phases from the ChiCo corpus.
+**Input :** conversation files (.csv), annotations of the different game phases from the ChiCo corpus, word.csv and the version 3.83 of the [Lexique database](http://www.lexique.org/) by New & Pallier.
 
 **Sources :** `SPEECH_RATE.ipynb`, `MY_FUNCTIONS.ipynb`
 
